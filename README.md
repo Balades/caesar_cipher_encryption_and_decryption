@@ -17,7 +17,6 @@ If there is any non-professional thing I did, I hope you can contribute and push
 5. Then you can type **cargo run** and click enter.
 <img width="760" alt="Screenshot 2023-03-12 at 14 49 31" src="https://user-images.githubusercontent.com/55946820/224548935-3749224b-7185-4b8a-8156-4e5bc26fd7d0.png">
 
-
 ## How to Use the Project
 1. After entering **cargo run**, the App builds to give this main menu.
 <img width="760" alt="Screenshot 2023-03-12 at 14 50 56" src="https://user-images.githubusercontent.com/55946820/224549002-61a63091-c770-49b5-8fa6-243c94764f50.png">
@@ -28,7 +27,7 @@ If there is any non-professional thing I did, I hope you can contribute and push
 2b. After inputting the two, you get your encrypted message and you are taken back to the main menu. 
 <img width="760" alt="Screenshot 2023-03-12 at 14 55 38" src="https://user-images.githubusercontent.com/55946820/224549312-e4f5f69b-c9d0-4d3d-8d2f-596ad8afa837.png">
 
-3a. For Decryption, you are prompted to input your encrypted message and shift.
+3a. For Decryption(which is 2), you are prompted to input your encrypted message and shift.
 <img width="760" alt="Screenshot 2023-03-12 at 14 59 59" src="https://user-images.githubusercontent.com/55946820/224549495-50fdf8b2-843b-473a-bf8e-78b89219c631.png">
 
 3b. If your input for shift is in the range(-27 < shift < 27), it gives one answer.
@@ -38,8 +37,7 @@ If there is any non-professional thing I did, I hope you can contribute and push
  <img width="830" alt="Screenshot 2023-03-12 at 15 05 38" src="https://user-images.githubusercontent.com/55946820/224549802-9f2e5f31-f345-4e5f-bdaa-83f57b7283ac.png">
 
 4. Finally, you can input 3 to exit from the main menu.
-
-
+ 
 ## Contributing
 We welcome any and all contributions! Here are some ways you can get started:
 
