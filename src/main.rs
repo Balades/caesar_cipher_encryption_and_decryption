@@ -21,7 +21,7 @@ fn encryptor() {
         .read_line(&mut shift)
         .expect("Could not readline");
     let message = String::from(message.trim());
-    let shift: i32 = shift.trim().parse().unwrap();
+    let shift: i32 = shift.trim().parse().unwrap_or(29);
     println!(
         "({}) is the encryption of ({}) with shift({}).",
         encrypt(&message, shift),
